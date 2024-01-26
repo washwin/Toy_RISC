@@ -1,0 +1,4 @@
+#instructions =658
+#cycles = 658
+#wrong branch = 220
+#stops = 126

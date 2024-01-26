@@ -1,0 +1,4 @@
+#static instructions = 17
+#dynamic instructions = 65
+#cycles = 2731
+IPC = 0.02380080556572684

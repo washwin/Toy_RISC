@@ -1,0 +1,4 @@
+Number of Static Instructions executed = 17
+Number of Dynamic Instructions executed = 65
+Number of Cycles taken = 1037
+IPC = 0.0626808100289296

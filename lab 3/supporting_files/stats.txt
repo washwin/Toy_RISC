@@ -1,0 +1,2 @@
+number of instructions =213
+number of cycles = 213
